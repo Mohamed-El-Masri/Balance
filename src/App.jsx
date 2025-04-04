@@ -128,7 +128,6 @@ function App() {
           <Properties properties={propertiesData} />
           <ComparisonSection />
           <Vision2030Section />
-
           <CaseStudiesSection />
         </div>
         <Footer />
