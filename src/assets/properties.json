@@ -1,0 +1,305 @@
+[
+    {
+        "id": "1",
+        "basicData": {
+            "documentNumber": "382169000273",
+            "documentDate": "1446/6/28",
+            "previousDocumentDate": "1444/3/10",
+            "area": "2,559.87"
+        },
+        "property": {
+            "propertyId": "1135983029440001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "908",
+            "area": "2,559.87",
+            "block": "16",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.492583,
+            "longitude": 46.926167
+        }
+    },
+    {
+        "id": "2",
+        "basicData": {
+            "documentNumber": "382169000277",
+            "documentDate": "1446/6/29",
+            "previousDocumentDate": "1444/3/10",
+            "area": "2,499.11"
+        },
+        "property": {
+            "propertyId": "1135976628900001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "913",
+            "area": "2,499.11",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.491611,
+            "longitude": 46.924889
+        }
+    },
+    {
+        "id": "3",
+        "basicData": {
+            "documentNumber": "382169000291",
+            "documentDate": "1446/7/13",
+            "previousDocumentDate": "1444/3/10",
+            "area": "2,466.41"
+        },
+        "property": {
+            "propertyId": "1135973228640001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "915",
+            "area": "2,466.41",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.491167,
+            "longitude": 46.924250
+        }
+    },
+    {
+        "id": "4",
+        "basicData": {
+            "documentNumber": "382169000296",
+            "documentDate": "1446/7/28",
+            "previousDocumentDate": "1444/3/21",
+            "area": "2,411.49"
+        },
+        "property": {
+            "propertyId": "1135961227900001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "922",
+            "area": "2,411.49",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.489806,
+            "longitude": 46.921861
+        }
+    },
+    {
+        "id": "5",
+        "basicData": {
+            "documentNumber": "398592000123",
+            "documentDate": "1446/8/7",
+            "previousDocumentDate": "1443/8/4",
+            "area": "2,656.72"
+        },
+        "property": {
+            "propertyId": "1135947427280001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "929",
+            "area": "2,656.72",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.488722,
+            "longitude": 46.919139
+        }
+    },
+    {
+        "id": "6",
+        "basicData": {
+            "documentNumber": "398592000124",
+            "documentDate": "1446/8/7",
+            "previousDocumentDate": "1443/8/4",
+            "area": "2,651.09"
+        },
+        "property": {
+            "propertyId": "1135945427180001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "930",
+            "area": "2,651.09",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.488583,
+            "longitude": 46.918750
+        }
+    },
+    {
+        "id": "7",
+        "basicData": {
+            "documentNumber": "398592000128",
+            "documentDate": "1446/8/17",
+            "previousDocumentDate": "1443/8/4",
+            "area": "2,656.72"
+        },
+        "property": {
+            "propertyId": "1135941227020001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "932",
+            "area": "2,656.72",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.488278,
+            "longitude": 46.917944
+        }
+    },
+    {
+        "id": "8",
+        "basicData": {
+            "documentNumber": "482169000297",
+            "documentDate": "1446/7/28",
+            "previousDocumentDate": "1444/3/17",
+            "area": "2,401.29"
+        },
+        "property": {
+            "propertyId": "1135959427800001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "923",
+            "area": "2,401.29",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.490139,
+            "longitude": 46.921278
+        }
+    },
+    {
+        "id": "9",
+        "basicData": {
+            "documentNumber": "698592000122",
+            "documentDate": "1446/8/6",
+            "previousDocumentDate": "1443/7/30",
+            "area": "2,659.67"
+        },
+        "property": {
+            "propertyId": "1135939226940001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "933",
+            "area": "2,659.67",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.488139,
+            "longitude": 46.917528
+        }
+    },
+    {
+        "id": "10",
+        "basicData": {
+            "documentNumber": "782169000272",
+            "documentDate": "1446/6/28",
+            "previousDocumentDate": "1444/3/23",
+            "area": "2,543.27"
+        },
+        "property": {
+            "propertyId": "1135981429300001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "910",
+            "block": "16",
+            "area": "2,543.27",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.492861,
+            "longitude": 46.925639
+        }
+    },
+    {
+        "id": "11",
+        "basicData": {
+            "documentNumber": "782169000295",
+            "documentDate": "1446/7/28",
+            "previousDocumentDate": "1444/3/23",
+            "area": "2,406.06"
+        },
+        "property": {
+            "propertyId": "1135957627700001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "924",
+            "area": "2,406.06",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.489500,
+            "longitude": 46.921139
+        }
+    },
+    {
+        "id": "12",
+        "basicData": {
+            "documentNumber": "882169000290",
+            "documentDate": "1446/7/13",
+            "previousDocumentDate": "1444/3/23",
+            "area": "2,456.62"
+        },
+        "property": {
+            "propertyId": "1135971628520001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "916",
+            "area": "2,456.62",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.491444,
+            "longitude": 46.923694
+        }
+    },
+    {
+        "id": "13",
+        "basicData": {
+            "documentNumber": "882169000294",
+            "documentDate": "1446/7/28",
+            "previousDocumentDate": "1444/5/24",
+            "area": "2,414.5"
+        },
+        "property": {
+            "propertyId": "1135963027980001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "921",
+            "area": "2,414.5",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.490472,
+            "longitude": 46.921972
+        }
+    },
+    {
+        "id": "14",
+        "basicData": {
+            "documentNumber": "982169000276",
+            "documentDate": "1446/6/29",
+            "previousDocumentDate": "1444/3/23",
+            "area": "2,514.02"
+        },
+        "property": {
+            "propertyId": "1135978229020001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "912",
+            "area": "2,514.02",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.491833,
+            "longitude": 46.925222
+        }
+    },
+    {
+        "id": "15",
+        "basicData": {
+            "documentNumber": "982169000278",
+            "documentDate": "1446/6/30",
+            "previousDocumentDate": "1444/3/21",
+            "area": "2,485.42"
+        },
+        "property": {
+            "propertyId": "1135975028760001",
+            "city": "الرياض",
+            "neighborhood": "المصفاة",
+            "planNumber": "3880",
+            "plotNumber": "914",
+            "block": "16",
+            "area": "2,485.42",
+            "propertyType": "قطعة الارض",
+            "latitude": 24.491389,
+            "longitude": 46.924583
+        }
+    }
+]

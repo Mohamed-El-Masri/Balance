@@ -1,0 +1,38 @@
+{
+  "industrial": {
+    "total": 250,
+    "warehouses": 120,
+    "workers": 3500,
+    "occupancy": 85,
+    "area": 145000,
+    "chartData": {
+      "land": [210, 220, 230, 240, 245, 250],
+      "usage": [70, 72, 76, 80, 84, 85],
+      "years": ["2018", "2019", "2020", "2021", "2022", "2023"]
+    }
+  },
+  "residential": {
+    "complexes": 35,
+    "capacity": 4500,
+    "occupancy": 92,
+    "demand": 88,
+    "area": 87500,
+    "chartData": {
+      "land": [20, 24, 27, 30, 32, 35],
+      "usage": [78, 82, 85, 89, 91, 92],
+      "years": ["2018", "2019", "2020", "2021", "2022", "2023"]
+    }
+  },
+  "hotels": {
+    "total": 45,
+    "averageRating": 3.4,
+    "occupancy": 65,
+    "demand": "low",
+    "area": 65000,
+    "chartData": {
+      "land": [55, 52, 50, 48, 46, 45],
+      "usage": [85, 82, 75, 72, 68, 65],
+      "years": ["2018", "2019", "2020", "2021", "2022", "2023"]
+    }
+  }
+}
